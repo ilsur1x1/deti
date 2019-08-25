@@ -13,7 +13,7 @@ var numbers =
 96,
 126,
 37,
-       
+56,       
 ]
 
 var last_index = 0
